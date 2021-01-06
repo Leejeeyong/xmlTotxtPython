@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized_label</folder>
+	<filename>1.jpg</filename>
+	<path>C:\Users\koiware\Desktop\ImageProcess\creditcard\cards\cropped\resized\resized_label\1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>583</width>
+		<height>368</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cnum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>218</ymin>
+			<xmax>437</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>
